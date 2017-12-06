@@ -6,7 +6,7 @@ public class newclass{
     public static void main(String[] args) {
         System.out.println(prime(5));
     }
-    public static int prime(int num)//檢查質數 1為質數 0則否
+    public static int prime(int num)//1為質數 0則否
     {
         if(num == 1)
         {
